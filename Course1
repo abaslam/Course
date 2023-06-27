@@ -9,4 +9,7 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Ahamed Aslam
+Divide and Conquer Algorithms
+These type of algorithm breaks down a problem into two or more sub-problems of the same of releated type, until these become simple enough to be solved directly.
 
